@@ -2,6 +2,7 @@
 name = "plugs"
 version = "0.1.0-pre"
 authors = ["muvlon <muvlon@hentzes.de>"]
+license = "GPL-3.0"
 
 [dependencies]
 portaudio = "^0.7"
