@@ -1,0 +1,9 @@
+[package]
+name = "plugs"
+version = "0.1.0-pre"
+authors = ["muvlon <muvlon@hentzes.de>"]
+
+[dependencies]
+portaudio = "^0.7"
+bus = "^1.3"
+byteorder = "^1.0"
